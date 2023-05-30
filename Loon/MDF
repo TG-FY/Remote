@@ -1,22 +1,22 @@
 # - 流媒体及大流量下载
- - DOMAIN,tv.studyfun.live,🌐 MDF
- - DOMAIN,cf.studyfun.live,🌐 MDF
- - DOMAIN,cdn.studyfun.live,🌐 MDF
- - DOMAIN,cdn1.studyfun.live,🌐 MDF
- - DOMAIN,stream.studyfun.live,🌐 MDF
- - DOMAIN,stream1.studyfun.live,🌐 MDF
+DOMAIN,tv.studyfun.live,🌐 MDF
+DOMAIN,cf.studyfun.live,🌐 MDF
+DOMAIN,cdn.studyfun.live,🌐 MDF
+DOMAIN,cdn1.studyfun.live,🌐 MDF
+DOMAIN,stream.studyfun.live,🌐 MDF
+DOMAIN,stream1.studyfun.live,🌐 MDF
  
- - DOMAIN-SUFFIX,emby.wtf,🌐 MDF
- - DOMAIN-SUFFIX,jmsooo.com,🌐 MDF
- - DOMAIN-SUFFIX,pornemby.club,🌐 MDF
+DOMAIN-SUFFIX,emby.wtf,🌐 MDF
+DOMAIN-SUFFIX,jmsooo.com,🌐 MDF
+DOMAIN-SUFFIX,pornemby.club,🌐 MDF
  
- - DOMAIN-SUFFIX,dlandroid.rcv.sandai.net,🌐 MDF
- - DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net,🌐 MDF
- - DOMAIN-SUFFIX,hub5pn.wap.sandai.net,🌐 MDF
- - DOMAIN-SUFFIX,hub5pnc.sandai.net,🌐 MDF
- - DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net,🌐 MDF
- - DOMAIN-SUFFIX,hubciddata.sandai.net,🌐 MDF
- - DOMAIN-KEYWORD,mypikpak,🌐 MDF
- - DOMAIN-KEYWORD,dubox,🌐 MDF
- - DOMAIN-KEYWORD,terabox,🌐 MDF
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net,🌐 MDF
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net,🌐 MDF
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net,🌐 MDF
+DOMAIN-SUFFIX,hub5pnc.sandai.net,🌐 MDF
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net,🌐 MDF
+DOMAIN-SUFFIX,hubciddata.sandai.net,🌐 MDF
+DOMAIN-KEYWORD,mypikpak,🌐 MDF
+DOMAIN-KEYWORD,dubox,🌐 MDF
+DOMAIN-KEYWORD,terabox,🌐 MDF
 
