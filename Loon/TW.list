@@ -1,0 +1,15 @@
+# 以下规则需要台湾线路
+
+#Bahamut
+DOMAIN,bahamut.akamaized.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,viblast.com
+USER-AGENT,Anime*
+
+#pixmanTW
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,ofiii.com
