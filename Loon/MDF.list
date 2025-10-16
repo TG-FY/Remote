@@ -1,22 +1,13 @@
 # - 流媒体及大流量下载
 
+DOMAIN-SUFFIX,emby.wtf            # 终点站 Termius   # Emby
+DOMAIN-SUFFIX,jmsooo.com          # 卷毛鼠 JMS       # Emby
+DOMAIN-SUFFIX,jmsuper.com         # 卷毛鼠 JMS       # Emby
+DOMAIN-SUFFIX,emby.moe            # 垃圾影音 1111    # Emby
+DOMAIN-SUFFIX,pornemby.com        # PornEmby        # Emby
+DOMAIN-SUFFIX,tanhuatv.site       # TanHuaTV        # Emby
 
-DOMAIN-SUFFIX,tgfy.lat
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,jmsuper.com
-DOMAIN-SUFFIX,ziliudiemby.sbs
-DOMAIN-SUFFIX,pornemby.com
-DOMAIN-SUFFIX,tanhuatv.site
-
-DOMAIN,pikpakdrive.com
-DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
-DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
-DOMAIN-SUFFIX,hub5pn.wap.sandai.net
-DOMAIN-SUFFIX,hub5pnc.sandai.net
-DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
-DOMAIN-SUFFIX,hubciddata.sandai.net
-DOMAIN-KEYWORD,pikpak
-DOMAIN-KEYWORD,mypikpak
-DOMAIN-KEYWORD,dubox
-DOMAIN-KEYWORD,terabox
-
+DOMAIN-KEYWORD,pikpak             # PikPak          # 网盘
+DOMAIN-KEYWORD,pikpakdrive        # PikPak          # 网盘
+DOMAIN-KEYWORD,dubox              # Terabox         # 网盘
+DOMAIN-KEYWORD,terabox            # Terabox         # 网盘
